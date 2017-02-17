@@ -1,0 +1,10 @@
+# Test that staff program can play and have a winner.
+java -ea loa.Main 
+None
+===#1===
+auto black
+auto white
+seed 12348
+start
+%bw
+%e

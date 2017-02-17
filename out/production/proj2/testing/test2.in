@@ -1,0 +1,16 @@
+# Test several moves of a fully manual game, use 'dump' to check.
+java -ea loa.Main
+None
+===#1===
+manual white
+manual black
+start
+b1-b3
+dump
+a4-c4
+dump
+g8-g6
+dump
+h5-f5
+dump
+quit

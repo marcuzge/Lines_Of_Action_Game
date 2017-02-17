@@ -1,0 +1,7 @@
+# Test 'set' command, and use 'dump' to check.
+java -ea loa.Main 
+None
+===#1===
+set c2 b
+dump
+quit

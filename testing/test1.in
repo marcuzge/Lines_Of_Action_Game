@@ -1,0 +1,16 @@
+# Fill this in.
+java -ea loa.Main
+None
+===#1===
+manual black
+manual white
+start
+c1-c3
+dump
+a3-b2
+dump
+b1-d3
+dump
+a4-c2
+dump
+quit
